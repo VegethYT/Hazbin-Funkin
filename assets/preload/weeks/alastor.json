@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Deal Maker",
+			"alastor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cursed Agreement",
+			"alastor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Breaking The Deal",
+			"alastor",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Consequences",
+			"alastor",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"alastor",
+		"bf",
+		"gf"
+	],
+	"storyName": "A deal with a demon",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
